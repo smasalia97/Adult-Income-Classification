@@ -17,7 +17,9 @@ Submission Title - Final Implementation [AI539 Machine Learning Challenges Winte
     g. SciPy (pip install Scipy) - For winsorization
     h. XGBoost (pip install xgboost) - Main Classifier
 
-OPTIONAL - For point 1, one can just install the code runner extension on VS Code, this would same time.
+OPTIONAL - For point 1, one can just install the code runner extension on VS Code, this would save time.
 
 Dataset URL - https://archive.ics.uci.edu/dataset/2/adult
-My Data File's URL - https://oregonstate.app.box.com/folder/254409913554?s=nqu666k2d9me2tjrz34dn4g22h6agi3y (Permission already granted)
+My Data File's URL - https://oregonstate.app.box.com/folder/254409913554?s=nqu666k2d9me2tjrz34dn4g22h6agi3y
+
+NOTE - **This was done for Project in Class AI539 - Machine Learning Challenges, Oregon State University for Winter 2024 under the Guidance of Professor Rebecca Hutchinson.**
