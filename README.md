@@ -2,7 +2,9 @@
 Binary Classification for Adult Income using Python, Machine Learning &amp; XGBoost.
 
 Name - Saiyam Maunik Masalia
+
 Date - 03/18/2024
+
 Submission Title - Final Implementation [AI539 Machine Learning Challenges Winter 2024]
 
 1. To run final.py, open the terminal in the directory where the file is present and run the command "python final.py".
